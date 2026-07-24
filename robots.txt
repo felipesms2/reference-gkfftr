@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://felipesms2.github.io/reference-gkfftr/sitemap.xml
